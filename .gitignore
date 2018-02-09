@@ -1,19 +1,272 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+# Build and Release Fold<scpd xmlns="urn:schemas-upnp-org:service-1-0">
 
-# Other files and folders
-.settings/
+<specVersion>
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+<major>1</major>
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<minor>0</minor>
+
+</specVersion>
+
+<actionList>
+
+<action>
+
+<name> [+]By Mohammad Ali[+]</name>
+
+<argumentList>
+
+<argument>
+
+<name> My Facebook:5599x</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SenderFriendlyName</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name>email:yidar28@gmail.com</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_Message</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name> security </name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_TotalCount</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name> iraq </name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_TotalBytes</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name> Huissen Basim </name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_TransportDescription</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name> Nasiriayh</name>
+
+<direction>out</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SessionID</relatedStateVariable>
+
+</argument>
+
+</argumentList>
+
+</action>
+
+<action>
+
+<name>Dhi Qar</name>
+
+<argumentList>
+
+<argument>
+
+<name>M3D_r00t</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SessionID</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name>update By Sok</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_ItemDescriptor</relatedStateVariable>
+
+</argument>
+
+</argumentList>
+
+</action>
+
+<action>
+
+<name>SOK_hacker</name>
+
+<argumentList>
+
+<argument>
+
+<name>API-IRAQ</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SessionID</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name>tor</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_ItemDescriptor</relatedStateVariable>
+
+</argument>
+
+<argument>
+
+<name>upload</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_TotalCount</relatedStateVariable>
+
+</argument>
+
+</argumentList>
+
+</action>
+
+<action>
+
+<name>Sno0od</name>
+
+<argumentList>
+
+<argument>
+
+<name>iraqsql.ml</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SessionID</relatedStateVariable>
+
+</argument>
+
+</argumentList>
+
+</action>
+
+<action>
+
+<name>irq@hotmail.fr</name>
+
+<argumentList>
+
+<argument>
+
+<name>ir3q@Hotmail.fr</name>
+
+<direction>in</direction>
+
+<relatedStateVariable>A_ARG_TYPE_SessionID</relatedStateVariable>
+
+</argument>
+
+</argumentList>
+
+</action>
+
+</actionList>
+
+<serviceStateTable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_SenderFriendlyName</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_Message</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_TotalCount</name>
+
+<dataType>system</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_TotalBytes</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_TransportDescription</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_SessionID</name>
+
+<dataType>ui4</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_ItemDescriptor</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="no">
+
+<name>A_ARG_TYPE_TotalCount</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+<stateVariable sendEvents="yes">
+
+<name>Mohammad Ali</name>
+
+<dataType>string</dataType>
+
+</stateVariable>
+
+</serviceStateTable>
+
+</scpd>
+
